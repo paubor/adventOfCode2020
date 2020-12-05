@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paubor/adventOfCode2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paubor/adventOfCode2020/issues"
+  },
+  "homepage": "https://github.com/paubor/adventOfCode2020#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  }
+}
